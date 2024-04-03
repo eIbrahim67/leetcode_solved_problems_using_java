@@ -28,6 +28,6 @@ Please note that while the solutions provided here have been tested and verified
 
 ## Contact
 
-If you have any questions, suggestions, or concerns regarding this repository, feel free to [contact me](ibrahim.mohamed.ibrahim.t@gmail.com). I'm open to feedback and always striving to improve!
+If you have any questions, suggestions, or concerns regarding this repository, feel free to [contact me](mailto:ibrahim.mohamed.ibrahim.t@gmail.com). I'm open to feedback and always striving to improve!
 
 Happy coding! 🚀
