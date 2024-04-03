@@ -31,3 +31,17 @@ Please note that while the solutions provided here have been tested and verified
 If you have any questions, suggestions, or concerns regarding this repository, feel free to [contact me](mailto:ibrahim.mohamed.ibrahim.t@gmail.com). I'm open to feedback and always striving to improve!
 
 Happy coding! 🚀
+
+## Some of Work
+
+<p align="center">
+  <img src="https://github.com/eIbrahim67/leetcode_solved_problems_using_java/blob/master/part1.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/eIbrahim67/leetcode_solved_problems_using_java/blob/master/part2.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/eIbrahim67/leetcode_solved_problems_using_java/blob/master/part3.png" width="100%">
+</p>
