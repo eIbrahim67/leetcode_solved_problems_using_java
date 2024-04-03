@@ -33,10 +33,6 @@ Please adhere to the following guidelines when contributing:
 
 All contributions will be reviewed before being merged. Feedback may be provided to ensure code quality and adherence to guidelines.
 
-## Contact
-
-If you have any questions, suggestions, or concerns regarding this repository, feel free to [contact me](mailto:ibrahim.mohamed.ibrahim.t@gmail.com). I'm open to feedback and always striving to improve!
-
 ## Thank You!
 
 Thank you for your interest in contributing to this repository! Your contributions are greatly appreciated and help improve this resource for everyone. If you have any questions or need assistance with the contribution process, feel free to [contact me](mailto:ibrahim.mohamed.ibrahim.t@gmail.com). 
