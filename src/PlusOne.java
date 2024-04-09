@@ -1,9 +1,4 @@
-
-public class Main {
-    public static void main(String[] args) {
-        int[] arr = new int[]{9,8,7,6,5,4,3,2,1,0};
-        plusOne(arr);
-    }
+public class PlusOne {
 
     public static int[] plusOne(int[] digits) {
 
@@ -18,7 +13,6 @@ public class Main {
                 num *= 10;
             len++;
 
-        println(num);
         }
 
         if (String.valueOf(num + 1).length() > String.valueOf(num).length())
@@ -35,17 +29,9 @@ public class Main {
             num /= 10;
 
         }
-        
+
 
         return arr;
-    }
-
-    public static void print(Object s){
-        System.out.print(s);
-    }
-
-    public static void println(Object s){
-        System.out.println(s);
     }
 
 }
