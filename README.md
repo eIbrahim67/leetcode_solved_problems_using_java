@@ -45,3 +45,19 @@ Happy coding! 🚀
 <p align="center">
   <img src="https://github.com/eIbrahim67/leetcode_solved_problems_using_java/blob/master/part3.png" width="100%">
 </p>
+
+<p align="center">
+  <img src="https://github.com/eIbrahim67/leetcode_solved_problems_using_java/blob/master/part3.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/eIbrahim67/leetcode_solved_problems_using_java/blob/master/part4.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/eIbrahim67/leetcode_solved_problems_using_java/blob/master/part5.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/eIbrahim67/leetcode_solved_problems_using_java/blob/master/part6.png" width="100%">
+</p>
