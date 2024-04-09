@@ -61,3 +61,7 @@ Happy coding! 🚀
 <p align="center">
   <img src="https://github.com/eIbrahim67/leetcode_solved_problems_using_java/blob/master/part6.png" width="100%">
 </p>
+
+<p align="center">
+  <img src="https://github.com/eIbrahim67/leetcode_solved_problems_using_java/blob/master/part7.png" width="100%">
+</p>
