@@ -1,37 +1,46 @@
 public class PlusOne {
 
-    public static int[] plusOne(int[] digits) {
+    public int[] plusOne(int[] digits) {
 
-        int num = 0;
-        int len = 0;
+        int rem;
+        int i = digits.length - 2;
 
-        for (int i = 0; i < digits.length; i++) {
-
-            num += digits[i];
-
-            if (i != digits.length - 1)
-                num *= 10;
-            len++;
-
+        if (digits[digits.length - 1] + 1 > 9){
+            digits[digits.length - 1] = 0;
+            rem = 1;
+        }else{
+            digits[digits.length - 1]++;
+            return digits;
         }
 
-        if (String.valueOf(num + 1).length() > String.valueOf(num).length())
-            len++;
-
-        num++;
-
-        int[] arr = new int[len];
+        while (rem == 1){
 
 
-        for (int i = arr.length - 1; i > -1; i--) {
+            if (i < 0){
 
-            arr[i] = num % 10;
-            num /= 10;
+                int[] arr = new int[digits.length + 1];
 
+                arr[0] = 1;
+
+                return arr;
+
+            }
+            else {
+
+                if (digits[i] + 1 > 9){
+                    digits[i] = 0;
+                    rem = 1;
+                    i--;
+                }else{
+                    digits[i]++;
+                    return digits;
+                }
+
+            }
         }
 
 
-        return arr;
+        return digits;
     }
 
 }
